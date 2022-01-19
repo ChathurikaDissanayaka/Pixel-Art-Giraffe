@@ -1,2 +1,2 @@
 # Giraffe  
-A Pixel Art Made With CSS
+A pixel art made with CSS
